@@ -1,6 +1,3 @@
-Here is the updated `README.md` file with the test accuracy included:
-
-```markdown
 # Tree Species Classification using Neural Network
 
 ## Project Overview
